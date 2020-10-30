@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run mr_forward_test.py
+web: sh setup.sh && streamlit run tf_forward_test.py
